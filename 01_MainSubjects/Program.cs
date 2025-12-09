@@ -42,9 +42,9 @@ namespace _01_MainSubjects
 
             //custamerName = "Semih";
             //customerSurnaname = "Akbulut";
-            //customerphone = "546 250 34 89";
+            //customerphone = "+90 111 11 11";
             //customerEmail = "semihakb34@gmail.com";
-            //district = "Kagıthane";
+            //district = "Kadıköy";
             //city = "İstanbul";
 
             //Console.WriteLine("Rezervasyon Kartı");
@@ -57,9 +57,9 @@ namespace _01_MainSubjects
             //Console.WriteLine("------------------------------");
 
 
-            //custamerName = "Eda";
-            //customerSurnaname = "Dündar";
-            //customerphone = "546 250 34 89";
+            //custamerName = "Ayşe";
+            //customerSurnaname = "Yılmaz";
+            //customerphone = "+90 111 11 11";
             //customerEmail = "semmihakb34@gmail.com";
             //district = "Bornova";
             //city = "İzmir";
