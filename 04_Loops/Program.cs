@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -158,17 +159,56 @@ namespace _04_Loops
             //        i++;
             //}
 
-            int i = 1;
-            while (i <= 10)
-            {
-                if (i % 3 == 0)
-                {
-                    Console.WriteLine(i);
-                }
-                i++;
-            }
+            //int i = 1;
+            //while (i <= 10)
+            //{
+            //    if (i % 3 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //    i++;
+            //}
 
-            Console.Read();
+
+            //int i = 1;
+            //int sum = 0;
+
+            //while (i <= 12)
+            //{
+            //    sum += i;
+            //    i++;
+            //}
+
+            //Console.WriteLine(sum);
+
+            //Console.Read();
+
+            #endregion
+
+            #region Örnek Sınav Sorusu
+
+            // klavyeden girilen 3 basamaklı sayının basamakların toplamını hesaplayan kodu yazınız...
+
+
+            //Console.Write("Lütfen Bir Sayı Giriniz :");
+
+            //int number = int.Parse(Console.ReadLine());
+            //int ones, tens, hundreds;
+            //int sum;
+
+            //ones = number % 10;
+            //tens = (number % 100) / 10;
+            //hundreds = number / 100;
+
+            //Console.WriteLine(ones + "-" + tens + "-" + hundreds);
+
+            //sum = ones + tens + hundreds;
+
+            //Console.WriteLine(sum);
+
+
+
+            //Console.Read();
 
             #endregion
         }
